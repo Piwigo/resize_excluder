@@ -13,7 +13,7 @@ defined('PHPWG_ROOT_PATH') or die('Hacking attempt!');
 
 if (basename(dirname(__FILE__)) != 'resize_excluder')
 {
-  add_event_handler('init', 'esize_excluder_error');
+  add_event_handler('init', 'resize_excluder_error');
   function resize_excluder_error()
   {
     global $page;

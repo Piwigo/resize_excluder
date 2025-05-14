@@ -18,6 +18,12 @@ $tabsheet->add('config', l10n('Configuration'), RESIZE_EXCLUDER_ADMIN . '-config
 $tabsheet->select($page['tab']);
 $tabsheet->assign();
 
+$template->assign(
+  array(
+    'ADMIN_PAGE_TITLE' => 'Resize excluder',
+  )
+);
+
 // include page
 include(RESIZE_EXCLUDER_PATH . 'admin/' . $page['tab'] . '.php');
 
