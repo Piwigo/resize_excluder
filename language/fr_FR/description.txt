@@ -1,0 +1,1 @@
+Exclure un groupe du paramètre de redimensionnement après le téléchargement.
