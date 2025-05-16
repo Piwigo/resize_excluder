@@ -1,0 +1,1 @@
+Ekskludér gruppe fra størrelsesændring ved upload-indstillingen.
