@@ -1,0 +1,1 @@
+Excluir um grupo da configuração de redimensionamento após upload.
