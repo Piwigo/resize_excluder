@@ -1,0 +1,1 @@
+Excluye un grupo del parámetro de cambio de tamaño después de subida al servidor.
