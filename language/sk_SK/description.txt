@@ -1,0 +1,1 @@
+Vylúčenie skupiny z nastavenia zmeny veľkosti po nahratí.
