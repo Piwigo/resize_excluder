@@ -1,0 +1,1 @@
+Exclou un grup del paràmetre de canvi de de mida després de carregar al servidor.
