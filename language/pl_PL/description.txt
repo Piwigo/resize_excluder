@@ -1,0 +1,1 @@
+Wyklucz grupę z ustawień zmiany rozmiaru po przesłaniu.
