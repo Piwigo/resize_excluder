@@ -1,0 +1,1 @@
+Exkludera en grupp från inställningen för storleksändring efter uppladdning.
