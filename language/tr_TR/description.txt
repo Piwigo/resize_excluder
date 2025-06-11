@@ -1,0 +1,1 @@
+Yüklemeden sonra yeniden boyutlandırma ayarından bir grubu hariç tut.
